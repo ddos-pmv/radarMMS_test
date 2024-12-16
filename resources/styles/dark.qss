@@ -1,0 +1,48 @@
+QWidget {
+    background-color: white;
+    color: black;
+}
+QMainWindow{
+    background-color: "#F5F5F5";
+    color: black;
+}
+
+QWidget#RightWidget {
+    background-color: "#222222";
+    color: black;
+}
+
+QWidget#LeftWidget {
+    background-color: "#0D0D0D";
+    color: black;
+}
+
+#customButton[selected = "false"]{
+     background-color: "#585858";
+     color: "#262626";
+     border-radius: 5%;
+     border: 1px solid black;
+}
+#customButton[selected = "true"]{
+    background-color: "#585858";
+    color: white;
+    border-radius: 5%;
+    border: 1px solid white;
+}
+
+#headerBtn{
+    background-color: "#E7E7E7";
+}
+
+#temperatureButton{
+         background-color: "#585858";
+         color: "#262626";
+         border-radius: 5%;
+         border: 1px solid black;
+}
+
+#temperatureLabel{
+    font-size: 24px;
+    color: white;
+    background: transparent
+}

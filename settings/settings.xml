@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings>
+    <TemperatureScale>0</TemperatureScale>
+    <PressureUnit>1</PressureUnit>
+    <LastTemperatureCelsius>26</LastTemperatureCelsius>
+    <LastPressureMmHg>234</LastPressureMmHg>
+    <LastHumidity>32</LastHumidity>
+    <TargetTemperatureCelsius>28</TargetTemperatureCelsius>
+    <Theme>light</Theme>
+</Settings>
